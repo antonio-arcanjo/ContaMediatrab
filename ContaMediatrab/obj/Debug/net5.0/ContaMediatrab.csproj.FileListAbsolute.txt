@@ -1,0 +1,16 @@
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.csproj.AssemblyReference.cache
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.AssemblyInfoInputs.cache
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.AssemblyInfo.cs
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.csproj.CoreCompileInputs.cache
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ContaMediatrab.exe
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ContaMediatrab.deps.json
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ContaMediatrab.runtimeconfig.json
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ContaMediatrab.runtimeconfig.dev.json
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ContaMediatrab.dll
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ref\ContaMediatrab.dll
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\bin\Debug\net5.0\ContaMediatrab.pdb
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.dll
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ref\ContaMediatrab.dll
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.pdb
+C:\Users\Tony Assis\source\repos\ContaMediatrab\ContaMediatrab\obj\Debug\net5.0\ContaMediatrab.genruntimeconfig.cache
